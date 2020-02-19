@@ -1,0 +1,2 @@
+# openlapak
+sekrip openlapak
